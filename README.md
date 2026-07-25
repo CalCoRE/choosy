@@ -1,6 +1,8 @@
 # choosy
 Materials to accompany Wilkerson, M., Erickson, T., Lee, H. S., & Finzer, W. (2025). How to be 'Choosy': Wrangling Big Datasets for the Classroom. *Teaching Statistics.* https://doi.org/10.1111/test.70022
 
+Check out a one pager of guidelines for how to reduce the size of datasets in ways that preserve specific learning goals [here](https://github.com/CalCoRE/how-to-choosy/blob/main/guidelines.pdf).
+
 You can access interactive versions of the Python notebooks using Binder at the following links:
 - [Billboard Hot 100 Demo Notebook](https://mybinder.org/v2/gh/CalCoRE/choosy/main?urlpath=%2Fdoc%2Ftree%2Fbh100.ipynb)
 - [EPA Toxic Release Inventory Demo Notebook](https://mybinder.org/v2/gh/CalCoRE/choosy/main?urlpath=%2Fdoc%2Ftree%2Ftri23ca.ipynb)
